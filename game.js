@@ -11,7 +11,7 @@ setInterval(btnPress, 1000);
 function btnPress() {
   score--;
   postToPage(score);
-
-  function robel() {
-    score++;
+function add() {
+  scire++;
+  postToPage(score);
 }
