@@ -7,7 +7,7 @@ var columns = new Columns(2);
 
 createButton('Robel', btnPress); // Make a button
 createButton('Button', btnPress); // Make a button
-changeTitle('Clic2ker Game');
+changeTitle('Clicker Game');
 
 columns.addToColumn(1, buttonWorld);
 columns.addToColumn(2, button);
