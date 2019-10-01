@@ -51,4 +51,4 @@ function build() {
   var build = new HTMLElement('ul')
   var buildItem1 = new HTMLElement('li', 'house:0')
   var buildItem2 = new HTMLElement('li', 'Fence:0')
-  var buildItem1 = new HTMLElement('li', 'house:0')
+  var buildItem1 = new HTMLElement('li', 'mansion:0')
